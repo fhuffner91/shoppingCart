@@ -15,7 +15,6 @@
   
   <img alt="Code size" src="https://img.shields.io/github/languages/code-size/fhuffner91/shoppingCart">
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
    <a href="https://github.com/fhuffner91/shoppinCart/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/fhuffner91/shoppingCart?style=social">
   </a>
@@ -34,7 +33,7 @@ This is a shopping cart and it's possible buy new shoes. Just add sneakers to yo
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/franklaercio/shopping-cart-react
+$ git clone https://github.com/fhuffner91/shoppingCart
 # Access the project folder in the terminal/cmd
 $ cd shopping-cart-react
 # Run the server
@@ -45,13 +44,10 @@ $ yarn start
 
 ## :man_technologist: Authors
 
-* **Frank Laércio** - [Felipe Huffner](https://github.com/fhuffner91)
+* **Felipe Huffner** - [Felipe Huffner](https://github.com/fhuffner91)
 
 See also the list of [contributors](https://github.com/fhuffner91/shoppingCart/contributors) who participated in this project.
 
-## :clipboard: License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## :newspaper: Acknowledgments
 
