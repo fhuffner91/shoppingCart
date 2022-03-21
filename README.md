@@ -25,8 +25,8 @@
 This is a shopping cart and it's possible buy new shoes. Just add sneakers to your cart, as long as the quantity is available. In addition, this project was developed during the Ignite of Rocketseat.
 
 <p align="center">
-  <img alt="Home" width="98%" src="src\assets\screenshots\initialPage.png" />
-  <img alt="Cart" width="98%" src="src\assets\screenshots\shoppingCart.png" />
+  <img alt="Home" width="98%" src="src\assets\screenshots\page.png" />
+  <img alt="Cart" width="98%" src="src\assets\screenshots\cart.png" />
 </p>
 
 ## 🎲 Running the project
